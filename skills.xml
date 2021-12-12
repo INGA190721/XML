@@ -1,0 +1,17 @@
+
+<xml>
+	<basic testing theory>What is testing, bug reports, documentation, types, methods, testing directions, SDLC, STLC</basic testing theory>
+	<http>methods, codes, HTTP request and response structures</http>
+	<json, xml>structure </json, xml>
+	<api, postman>API testing via Postman, JS, API autotests</api, postman>
+	<charles, fiddler>Sniffing http web traffic, mobile traffic via Charles and Fiddler on iOS and Android</charles, fiddler>
+	<sql basics>Create, Delete, Drop, Insert Into, Select, From, Where, Join</sql basics>
+	<postgres>installation, configuration and use</postgres>
+	<dev tools>Google Chrome, FireFox</dev tools>
+	<vpn>How it works, why you need it, how to use it, tool options</vpn>
+	<mobile testing>Feature iOS, Android, guidelines, building iOS applications on Xcode, building Android applications on Android Studio,  ADB</mobile testing>
+	<redis non-relational database>installation, configuration and use</Redis non-relational databa>
+	<jmeter>Stress testing</jmeter>
+	<scrum>development methodology</scrum>
+	<python>learning the basics. Creating a client-server application</python>
+
