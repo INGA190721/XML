@@ -1,0 +1,16 @@
+<xml>
+  <bug name></bug name> 
+  <bug id></bug id>
+     <area path></area path>
+     <build number></build number>
+     <severity></severity>
+     <priority></priority>
+     <assigned to></assigned to>
+     <reported by></reported by>
+     <reported on></reported on>
+     <status></status>
+     <environment></environment>
+     <description></description>
+     <steps to reproduce></steps to reproduce>
+     <expected result></expected result>
+     <attachment></attachment>
